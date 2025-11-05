@@ -1,4 +1,4 @@
-# 🌐 Coming Soon Landing Page Marathon
+# 🌐 Coming Soon Landing Page
 
 **Eesmärk:** Luua 1 päeva jooksul meeskondade kaupa visuaalselt puhas ja funktsionaalne **Coming Soon** leht vanemate kursuste lõputöö projektidele.  
 Leht peab andma tunde, et midagi tõsist ja huvitavat on tulemas.
@@ -17,36 +17,28 @@ Leht peab andma tunde, et midagi tõsist ja huvitavat on tulemas.
 
 ## 🧱 Kohustuslikud elemendid
 
-- Projekti nimi + lühike tagline
-- "Coming Soon" keskne sõnum
-- Autorite/meeskonna nimed (võib olla anonüümne)
-- Responsive paigutus (telefon → desktop)
-- **Vähemalt 1 interaktiivne element:**
-  - countdown timer **või**
-  - e-mail vorm (fake-submit) **või**
-  - animatsioon / hover/scroll efekt
+### Sisu ja struktuur
+- Projekti nimi + lühike tagline (mille jaoks projekt on)
+- Selge "Coming Soon" sõnum
+- Meeskonna nimed või pseudonüümid
 
----
+### Disain (KOHUSTUSLIK)
+- Mobile-first layout
+- Konsistentne värvipalett (2–3 põhitooni)
+- Ühtne typograafia (max 2 erinevat fonti)
+- Visuaalne fookus: selge hierarhia (pealkiri → alamtekst → CTA)
 
-## 📅 Päeva ülesehitus
+### Interaktiivsed elemendid (vali **2–3**, kohustuslik)
+- Countdown timer
+- E-mail vorm (fake-submit, ilma päris backendita)
+- Hover / fade / scroll animatsioonid (nt Hero section fade-in)
+- Dark mode toggle
+- Väike loader / skeleton enne sisu ilmumist
+- Lihtne text reveal animatsioon (nt täht korraga või slide-in)
 
-### 1. Tund – Idee ja sisu
-- Valige projekt, mille jaoks leht tehakse
-- Sõnastage projekti mõte 2–4 lausega
-- Kirjutage kohe tekstid, mida lehele pannakse
-
-### 2. Tund – Disain
-- Kiire prototüüp Figmas või paberil
-- Layout: pealkiri → tekst → visuaal → CTA / countdown
-
-### 3.–4. Tund – Arendus
-- Vue + Tailwind või Vanilla + CSS
-- Kasuta mobile-first lähenemist
-- Animatsioonid tehakse alles lõpus
-
-### 5. Tund – Viimistlus ja esitlus
-- Kontrolli veebi mobiilis ja desktopis
-- Valmistage 2–3 min lühiesitlus
+### Tehniline
+- Leht peab olema **täielikult responsive** (telefon → desktop)
+- Kood peab olema arusaadava struktuuriga (pole "prügimäge")
 
 ---
 
@@ -79,5 +71,7 @@ Leht peab andma tunde, et midagi tõsist ja huvitavat on tulemas.
 
 Ärge hüpake kohe koodima.  
 Tugev tiim planeerib **tekstid + paigutuse** enne kirjutamist.
+**kirjutage tekst ja joonistage layout.**  
+
 
 ---
