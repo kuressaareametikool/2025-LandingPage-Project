@@ -1,4 +1,4 @@
-# 🌐 Coming Soon Landing Page
+# 🌐 Coming Soon Page
 
 **Eesmärk:** Luua 3 päeva jooksul meeskondade kaupa visuaalselt puhas ja funktsionaalne **Coming Soon** leht vanemate kursuste lõputöö projektidele.  
 
@@ -10,10 +10,11 @@
 
 **Tehnoloogia (vali üks):**
 - Vue + Tailwind CSS
-- Vanilla JavaScript + CSS
+- Vanilla JavaScript + CSS + HTML
 - React + Tailwind CSS
 - Node.js + Express
 - Laravel + Vue
+- Statamic + AlpineJS
   
 ---
 
@@ -46,10 +47,10 @@
 ## 🚀 Nõuded
 
 1. Leht on visuaalselt korrektne (mitte default HTML).
-2. Struktuur on selge (pole segadust failides).
-3. Responsive töötab päriselt.
+2. Struktuur on selge (pole segadust failides, Pildid eraldi folderis).
+3. Responsive töötab (Mobile, Tablet, Desktop).
 4. Interaktiivne element töötab.
-5. Projekt on esitatav ilma vabandusteta.
+5. Projekt on esitatav ja Laivis.
 
 ---
 
