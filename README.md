@@ -18,9 +18,8 @@ Leht peab andma tunde, et midagi tõsist ja huvitavat on tulemas.
 ## 🧱 Kohustuslikud elemendid
 
 ### Sisu ja struktuur
-- Projekti nimi + lühike tagline (mille jaoks projekt on)
+- Projekti nimi + Põhjalik ülevaade (mille jaoks projekt on)
 - Selge "Coming Soon" sõnum
-- Meeskonna nimed või pseudonüümid
 
 ### Disain (KOHUSTUSLIK)
 - Mobile-first layout
@@ -28,9 +27,9 @@ Leht peab andma tunde, et midagi tõsist ja huvitavat on tulemas.
 - Ühtne typograafia (max 2 erinevat fonti)
 - Visuaalne fookus: selge hierarhia (pealkiri → alamtekst → CTA)
 
-### Interaktiivsed elemendid (vali **2–3**, kohustuslik)
+### Interaktiivsed elemendid (vali **3**, kohustuslik)
 - Countdown timer
-- E-mail vorm (fake-submit, ilma päris backendita)
+- E-mail vorm (Submit toimib)
 - Hover / fade / scroll animatsioonid (nt Hero section fade-in)
 - Dark mode toggle
 - Väike loader / skeleton enne sisu ilmumist
@@ -49,21 +48,6 @@ Leht peab andma tunde, et midagi tõsist ja huvitavat on tulemas.
 3. Responsive töötab päriselt.
 4. Interaktiivne element töötab.
 5. Projekt on esitatav ilma vabandusteta.
-
----
-
-## 🌟 Hindamine (0–5 punkti iga)
-
-| Kriteerium | Kirjeldus |
-|---|---|
-| Visuaalne kvaliteet | Värvid, paigutus, esteetika |
-| Kasutajakogemus | Info selge ja loetav |
-| Tehniline puhtus | Failistruktuur ja koodi kvaliteet |
-| Responsive disain | Telefoni-, tahvli- ja desktopivaade |
-| Interaktiivsus | Countdown/vorm/animatsioon töötab |
-| Esitlus | Lühike, selge, enesekindel |
-
-**Maksimum:** 30 punkti
 
 ---
 
