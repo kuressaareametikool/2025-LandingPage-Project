@@ -46,8 +46,8 @@
 
 ## 🚀 Nõuded
 
-1. Leht on visuaalselt korrektne (mitte default HTML).
-2. Struktuur on selge (pole segadust failides, Pildid eraldi folderis).
+1. Leht on visuaalselt korrektne.
+2. Struktuur on selge (pole segadust failides, Pildid eraldi folderis jne).
 3. Responsive töötab (Mobile, Tablet, Desktop).
 4. Interaktiivne element töötab.
 5. Projekt on esitatav ja Laivis.
