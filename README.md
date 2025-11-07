@@ -73,7 +73,7 @@ Tugev tiim planeerib **tekstid + paigutuse** enne kirjutamist.
 ## Ken-Martti, Robby, Taaniel - https://github.com/Kennu156/dream-team - https://dream-team-gray.vercel.app/
 ## Oliver -  -
 ## Volodymyr - https://github.com/Aern-do/final-project-landing-page - https://final-project-landing-page-pi.vercel.app/
-## Andre, Kaspar -  -
+## Andre, Kaspar - https://github.com/Zorrop0/E-kaltsukas/ - https://e-kaltsukas.vercel.app/
 ## Jürgen -  -
 
 
