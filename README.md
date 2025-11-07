@@ -64,9 +64,9 @@ Tugev tiim planeerib **tekstid + paigutuse** enne kirjutamist.
 
 ## Esitatud tööd
 
-## Kätlin, Emily - https://github.com/KatlinEpelbaum/coming-soon-page?tab=readme-ov-file - https://coming-soon-page-inky.vercel.app/
+## Kätlin, Emily - https://github.com/KatlinEpelbaum/coming-soon-page - https://coming-soon-page-inky.vercel.app/
 ## Robin - https://github.com/robinmihkelson/coming-soon-page - https://coming-soon-web-app.vercel.app/
-## Kristofer - https://github.com/kiku69/coming-soon-discgolf/?tab=readme-ov-file - https://dgchallenge.neocities.org/
+## Kristofer - https://github.com/kiku69/coming-soon-discgolf - https://dgchallenge.neocities.org/
 ## Silver - https://github.com/Keiro-Toores/silver-final-project - https://silver-final-project.vercel.app/
 ## Juhan -  -
 ## Remo -  -
