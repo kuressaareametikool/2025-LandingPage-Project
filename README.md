@@ -43,7 +43,7 @@
 - Kood peab olema arusaadava struktuuriga (pole "prügimäge")
 
 ---
-
+ˇ
 ## 🚀 Nõuded
 
 1. Leht on visuaalselt korrektne.
@@ -71,9 +71,9 @@ Tugev tiim planeerib **tekstid + paigutuse** enne kirjutamist.
 ## Juhan -  -
 ## Remo -  -
 ## Ken-Martti, Robby, Taaniel - https://github.com/Kennu156/dream-team - https://dream-team-gray.vercel.app/
-## Oliver -  -
+## Oliver - https://github.com/Fluzby/05-11-25 / https://github.com/MrBruhButBetter/gps-track - https://gps-track-sandy.vercel.app/
 ## Volodymyr - https://github.com/Aern-do/final-project-landing-page - https://final-project-landing-page-pi.vercel.app/
 ## Andre, Kaspar - https://github.com/Zorrop0/E-kaltsukas/ - https://e-kaltsukas.vercel.app/
-## Jürgen -  -
+## Jürgen - https://github.com/jyrgen112/comingsooncatshelter - https://comingsooncatshelter.vercel.app/
 
 
