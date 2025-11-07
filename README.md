@@ -61,3 +61,9 @@ Tugev tiim planeerib **tekstid + paigutuse** enne kirjutamist.
 **kirjutage tekst ja joonistage layout.**  
 
 ---
+
+## Esitatud tööd
+
+- 
+- https://github.com/robinmihkelson/coming-soon-page - https://coming-soon-web-app.vercel.app/
+
